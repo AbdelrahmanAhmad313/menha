@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">menha android</string>
+    <string name="google_details">Google LLC is an American multinational corporation and technology company focusing on online advertising, search engine technology, cloud computing, computer software, quantum computing, e-commerce, consumer electronics, and artificial intelligence.</string>
+    <string name="google_address"><u>Mountain View,California,US</u></string>
+    <string name="google_link"><u>google.com</u></string>
+    <style name="SwitchTextStyle">
+        <item name="android:textSize">8sp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+</resources>
